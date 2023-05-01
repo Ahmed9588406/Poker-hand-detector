@@ -6,3 +6,4 @@ I used Playing Cards Image Dataset from the roboflow site
 this the link of the Dataset https://universe.roboflow.com/augmented-startups/playing-cards-ow27d/dataset/3 YOLO v8 Version
 I showed every thing in the code in comments 
 the pt file which name is playcards.pt is the weights of the trained model
+the jpg file is the rules of the game
